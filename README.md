@@ -1,2 +1,2 @@
 # Gesture-Recognition
-Computer vision Project
+### This dataset is taken from the repository https://github.com/gognjanovski/HandGestureRecognitionNeuralNetwork
